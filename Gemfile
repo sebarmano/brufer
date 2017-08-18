@@ -1,12 +1,13 @@
 source "https://rubygems.org"
 
-ruby "2.4.0"
+ruby "2.4.1"
 
 gem "autoprefixer-rails"
 gem "delayed_job_active_record"
 gem "flutie"
 gem "honeybadger"
 gem "jquery-rails"
+gem 'materialize-sass'
 gem "normalize-rails", "~> 3.0.0"
 gem "pg"
 gem "puma"
